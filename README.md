@@ -5,3 +5,7 @@ Imprima o número de repetições. Utilize a condição (contador < 10).
 
     
 2) Implemente em Java um programa que incrementa uma variável e imprima de 0 a 9.
+
+
+3) Implemente em Java um programa que decrementa uma variável e
+imprima de 0 a 9.
